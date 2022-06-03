@@ -14,7 +14,7 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @antfu/eslint-config
+pnpm add -D eslint "https://gitpkg.now.sh/lazzzis/eslint-config/packages/all?my"
 ```
 
 ### Config `.eslintrc`
@@ -51,6 +51,13 @@ Create `.vscode/settings.json`
     "source.fixAll.eslint": true
   }
 }
+```
+
+## Clear Pnpm cache
+
+Remove files under following path:
+```bash
+pnpm store
 ```
 
 ## Check Also
