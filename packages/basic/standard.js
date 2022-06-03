@@ -28,7 +28,7 @@ module.exports = {
     'object-shorthand': ['warn', 'properties'],
 
     'accessor-pairs': ['error', { setWithoutGet: true, enforceForClassMembers: true }],
-    'array-bracket-spacing': ['error', 'never'],
+    'array-bracket-spacing': ['error', 'always'],
     'array-callback-return': ['error', {
       allowImplicit: false,
       checkForEach: false,

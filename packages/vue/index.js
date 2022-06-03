@@ -51,7 +51,7 @@ module.exports = {
     'vue/prefer-separate-static-class': 'error',
 
     // extensions
-    'vue/array-bracket-spacing': ['error', 'never'],
+    'vue/array-bracket-spacing': ['error', 'always'],
     'vue/arrow-spacing': ['error', { before: true, after: true }],
     'vue/block-spacing': ['error', 'always'],
     'vue/brace-style': ['error', '1tbs', { allowSingleLine: true }],
