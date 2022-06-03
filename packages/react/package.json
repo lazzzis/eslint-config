@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@antfu/eslint-config-ts": "https://gitpkg.now.sh/lazzzis/packages/typescript?my",
+    "@antfu/eslint-config-ts": "https://gitpkg.now.sh/lazzzis/eslint-config/packages/typescript?my",
     "eslint-plugin-react": "^7.30.0"
   },
   "devDependencies": {
