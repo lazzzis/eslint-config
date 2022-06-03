@@ -16,8 +16,8 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@antfu/eslint-config-react": "workspace:*",
-    "@antfu/eslint-config-vue": "workspace:*",
+    "@antfu/eslint-config-react": "https://gitpkg.now.sh/lazzzis/packages/react?my",
+    "@antfu/eslint-config-vue": "https://gitpkg.now.sh/lazzzis/packages/vue?my",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
